@@ -1,0 +1,14 @@
+.todoItem {
+  margin: 10px;
+  color: #090955;
+  cursor: pointer;
+}
+
+.todoItem:hover {
+  color: #4b4bdf;
+}
+
+.todoItem.completed {
+  color: #ff0000;
+  text-decoration: line-through;
+}

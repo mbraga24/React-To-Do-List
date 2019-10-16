@@ -1,0 +1,21 @@
+.button {
+  border-radius: 3rem;
+  padding: 10px;
+  margin: 10px;
+  font-size: 0.8rem;
+  font-weight: 700;
+  transition: all .09s ease-in;
+}
+
+.button:hover {
+  background: #c29292;
+  color: white;
+}
+
+#addTodoInput {
+  height: 25px;
+}
+
+#addTodoInput {
+  border-radius: 1rem;
+}
